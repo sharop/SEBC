@@ -1,19 +1,15 @@
-# MYSQL
+### MYSQL
 
-wget http://dev.mysql.com/get/mysql57-community-release-el7-9.noarch.rpm
 
-sudo rpm -Uvh mysql57-community-release-el7-9.noarch.rpm
-
-sudo yum -y install mysql-server
-´´´
+```
 mysql-server  installed on
 master		54.183.166.167		172.31.25.156		siberiano
 replica		54.183.165.86		172.31.25.157		siames
-´´´
+```
 
 * Output
 
-´´´
+```
 *************************** 1. row ***************************
                Slave_IO_State: Waiting for master to send event
                   Master_Host: siberiano.sharop.net
@@ -72,4 +68,4 @@ Master_SSL_Verify_Server_Cert: No
          Replicate_Rewrite_DB: 
                  Channel_Name: 
            Master_TLS_Version: 
-´´´
+```
