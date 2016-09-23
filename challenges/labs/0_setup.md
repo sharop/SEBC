@@ -62,3 +62,6 @@ ec2-user:x:1000:1000:Cloud User:/home/ec2-user:/bin/bash
 christie:x:2500:2500::/home/christie:/bin/bash
 weiner:x:2501:2501::/home/weiner:/bin/bash
 ```
+
+
+
