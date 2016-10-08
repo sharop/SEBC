@@ -1,8 +1,10 @@
 What is ubertask optimization?
 
 `not answered`
+`Answered Oct8 - Enable the execution of small jobs sequientially inside a process. `
 
 Where in CM is the Kerberos Security Realm value displayed?
+
 HOME --> Administration --> Security --> TAB Kerberos Credentials  (If it is already configured)
 HOME --> Administration --> Security --> TAB Kerberos Credentials --> Configuration -->  Kerberos Security Realm
   http://server:7180/cmf/settings?q=security_realm#filterfreeText=security_realm
