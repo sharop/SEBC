@@ -1,7 +1,7 @@
 */admin@SHAROP.NET *
 cloudera-scm@SHAROP.NET admilc
-sentry@SHAROP.NET admilc
-hdfs@SHAROP.NET admilc
+# sentry@SHAROP.NET admilc  SECURITY ISSUE USING THIS HERE -- Added by sharop
+# hdfs@SHAROP.NET admilc    SECURITY ISSUE  -- Added by sharop
 ec2-user@SHAROP.NET admilc
 
-??? Why would you give `sentry` and `hdfs` administrative privileges on your Kerberos server? 
+# ??? Why would you give `sentry` and `hdfs` administrative privileges on your Kerberos server? 
