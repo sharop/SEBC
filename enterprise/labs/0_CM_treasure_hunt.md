@@ -1,5 +1,7 @@
 What is ubertask optimization?
 
+`not answered`
+
 Where in CM is the Kerberos Security Realm value displayed?
 HOME --> Administration --> Security --> TAB Kerberos Credentials  (If it is already configured)
 HOME --> Administration --> Security --> TAB Kerberos Credentials --> Configuration -->  Kerberos Security Realm
@@ -28,6 +30,8 @@ Name all the roles that make up the Hive service
 * Full Administrator
 * Operator
 * Configurator
+
+`These are Cloudera Manager roles. The Hive roles are the HiveServer2, Metastore, Gateway, and WebHCatalog`
 
 
 What steps must be compelted before integrating Cloudera Manager with Kerberos?
